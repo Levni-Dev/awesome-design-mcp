@@ -1,0 +1,638 @@
+{
+ "list": "awesome-design-mcp",
+ "updated": "2026-11-26",
+ "entries": [
+  {
+   "name": "Framelink Figma MCP",
+   "repo": "GLips/Figma-Context-MCP",
+   "url": "https://github.com/GLips/Figma-Context-MCP",
+   "desc": "Reads Figma file layout and styles through the REST API so a coding agent can build the UI from a frame",
+   "license": "MIT",
+   "stars": 16313,
+   "pushed": "2026-11-15",
+   "official": false,
+   "category": "Figma, Penpot and design suites"
+  },
+  {
+   "name": "Cursor Talk to Figma",
+   "repo": "grab/cursor-talk-to-figma-mcp",
+   "url": "https://github.com/grab/cursor-talk-to-figma-mcp",
+   "desc": "Two-way bridge through a Figma plugin: the agent reads and edits layers, text and styles in an open file",
+   "license": "MIT",
+   "stars": 7127,
+   "pushed": "2026-07-26",
+   "official": false,
+   "category": "Figma, Penpot and design suites"
+  },
+  {
+   "name": "Figma Console MCP",
+   "repo": "southleft/figma-console-mcp",
+   "url": "https://github.com/southleft/figma-console-mcp",
+   "desc": "Extract tokens and components from Figma, create or edit nodes and debug a design system from the agent",
+   "license": "MIT",
+   "stars": 3428,
+   "pushed": "2026-11-13",
+   "official": false,
+   "category": "Figma, Penpot and design suites"
+  },
+  {
+   "name": "Figwright",
+   "repo": "awdr74100/figwright",
+   "url": "https://github.com/awdr74100/figwright",
+   "desc": "Free two-way Figma server: turns designs into framework-aware code and pushes UI back into Figma",
+   "license": "MIT",
+   "stars": 1553,
+   "pushed": "2026-11-25",
+   "official": false,
+   "category": "Figma, Penpot and design suites"
+  },
+  {
+   "name": "Figma MCP Bridge",
+   "repo": "gethopp/figma-mcp-bridge",
+   "url": "https://github.com/gethopp/figma-mcp-bridge",
+   "desc": "Figma plugin plus MCP server that reads and writes the open file locally, avoiding REST API rate limits",
+   "license": "MIT",
+   "stars": 956,
+   "pushed": "2026-11-13",
+   "official": false,
+   "category": "Figma, Penpot and design suites"
+  },
+  {
+   "name": "Penpot MCP (official)",
+   "repo": "penpot/penpot",
+   "url": "https://github.com/penpot/penpot/tree/develop/mcp",
+   "desc": "Official server in the Penpot monorepo (mcp/ folder); queries, creates and edits shapes via the Plugin API",
+   "license": "MPL-2.0",
+   "stars": 62738,
+   "pushed": "2026-11-25",
+   "official": true,
+   "category": "Figma, Penpot and design suites"
+  },
+  {
+   "name": "Affinity MCP Server",
+   "repo": "sekharmalla/affinity-mcp-server",
+   "url": "https://github.com/sekharmalla/affinity-mcp-server",
+   "desc": "Drives Affinity Designer, Photo and Publisher on macOS so the agent can create and edit documents",
+   "license": "MIT",
+   "stars": 39,
+   "pushed": "2026-07-03",
+   "official": false,
+   "category": "Figma, Penpot and design suites"
+  },
+  {
+   "name": "Photoshop MCP",
+   "repo": "alisaitteke/photoshop-mcp",
+   "url": "https://github.com/alisaitteke/photoshop-mcp",
+   "desc": "118 tools to control Adobe Photoshop: layers, selections, text, filters and export",
+   "license": "MIT",
+   "stars": 961,
+   "pushed": "2026-11-14",
+   "official": false,
+   "category": "Figma, Penpot and design suites"
+  },
+  {
+   "name": "Adobe MCP (InDesign, Illustrator, Photoshop)",
+   "repo": "zachshallbetter/adobe-mcp",
+   "url": "https://github.com/zachshallbetter/adobe-mcp",
+   "desc": "Local servers that script InDesign, Illustrator and Photoshop documents from the agent",
+   "license": "MIT",
+   "stars": 42,
+   "pushed": "2026-11-19",
+   "official": false,
+   "category": "Figma, Penpot and design suites"
+  },
+  {
+   "name": "Inkscape MCP (aravindev)",
+   "repo": "aravindev/inkscape_mcp",
+   "url": "https://github.com/aravindev/inkscape_mcp",
+   "desc": "Lets the agent draw and edit SVG in Inkscape, live next to the GUI or headless",
+   "license": "MIT",
+   "stars": 106,
+   "pushed": "2026-11-23",
+   "official": false,
+   "category": "Editors, illustration and pixel art"
+  },
+  {
+   "name": "Inkscape MCP (sandraschi)",
+   "repo": "sandraschi/inkscape-mcp",
+   "url": "https://github.com/sandraschi/inkscape-mcp",
+   "desc": "Headless Inkscape via FastMCP: 60+ operations such as shapes, boolean ops, path effects and export",
+   "license": "MIT",
+   "stars": 107,
+   "pushed": "2026-10-24",
+   "official": false,
+   "category": "Editors, illustration and pixel art"
+  },
+  {
+   "name": "GIMP MCP",
+   "repo": "gimp-mcp/gimp-mcp",
+   "url": "https://github.com/gimp-mcp/gimp-mcp",
+   "desc": "Controls a running GIMP: open images, work with layers, apply filters, run Python-Fu and export",
+   "license": "GPL-3.0",
+   "stars": 310,
+   "pushed": "2026-11-21",
+   "official": false,
+   "category": "Editors, illustration and pixel art"
+  },
+  {
+   "name": "Krita MCP (nanayax3)",
+   "repo": "nanayax3/krita-mcp",
+   "url": "https://github.com/nanayax3/krita-mcp",
+   "desc": "Lets the agent paint in Krita: brush strokes, layers and canvas actions",
+   "license": "MIT",
+   "stars": 56,
+   "pushed": "2026-02-26",
+   "official": false,
+   "category": "Editors, illustration and pixel art"
+  },
+  {
+   "name": "Krita MCP (SanSaSane)",
+   "repo": "SanSaSane/krita-mcp",
+   "url": "https://github.com/SanSaSane/krita-mcp",
+   "desc": "Krita server covering layers, drawing, filters and export",
+   "license": "CC0-1.0",
+   "stars": 16,
+   "pushed": "2026-10-23",
+   "official": false,
+   "category": "Editors, illustration and pixel art"
+  },
+  {
+   "name": "ImageSorcery MCP",
+   "repo": "sunriseapps/imagesorcery-mcp",
+   "url": "https://github.com/sunriseapps/imagesorcery-mcp",
+   "desc": "Local image operations for agents: crop, resize, rotate, draw text and shapes, detect objects, OCR",
+   "license": "MIT",
+   "stars": 339,
+   "pushed": "2026-05-19",
+   "official": false,
+   "category": "Editors, illustration and pixel art"
+  },
+  {
+   "name": "image2svg MCP",
+   "repo": "botmonster/image2svg-mcp",
+   "url": "https://github.com/botmonster/image2svg-mcp",
+   "desc": "Converts PNG, JPG or WEBP files to SVG vector paths locally",
+   "license": "Apache-2.0",
+   "stars": 11,
+   "pushed": "2026-07-09",
+   "official": false,
+   "category": "Editors, illustration and pixel art"
+  },
+  {
+   "name": "Levni",
+   "repo": "Levni-Dev/levni",
+   "url": "https://github.com/Levni-Dev/levni",
+   "desc": "Renders hand-inked illustrations, 3D covers and icons from JSON scenes; no generative model, runs locally",
+   "license": "MIT",
+   "stars": 0,
+   "pushed": "2026-11-25",
+   "official": false,
+   "category": "Editors, illustration and pixel art"
+  },
+  {
+   "name": "Aseprite AI Artist",
+   "repo": "with-pebbly/aseprite-ai-artist",
+   "url": "https://github.com/with-pebbly/aseprite-ai-artist",
+   "desc": "Agent paints pixel art and animation frames directly in an open Aseprite window via an extension",
+   "license": "MIT",
+   "stars": 740,
+   "pushed": "2026-11-24",
+   "official": false,
+   "category": "Editors, illustration and pixel art"
+  },
+  {
+   "name": "Blender MCP",
+   "repo": "ahujasid/mcp-for-blender",
+   "url": "https://github.com/ahujasid/mcp-for-blender",
+   "desc": "Blender add-on plus server: create and edit objects, materials and scenes, fetch assets, run Python",
+   "license": "MIT",
+   "stars": 35784,
+   "pushed": "2026-11-18",
+   "official": false,
+   "category": "3D and CAD"
+  },
+  {
+   "name": "FreeCAD MCP",
+   "repo": "neka-nat/freecad-mcp",
+   "url": "https://github.com/neka-nat/freecad-mcp",
+   "desc": "Create and edit parametric FreeCAD documents, objects and views, and run Python in them",
+   "license": "MIT",
+   "stars": 3479,
+   "pushed": "2026-11-16",
+   "official": false,
+   "category": "3D and CAD"
+  },
+  {
+   "name": "Kiln",
+   "repo": "instruktlabs/kiln",
+   "url": "https://github.com/instruktlabs/kiln",
+   "desc": "Local engine that builds and revises procedural 3D assets from code; CLI, SDK and MCP",
+   "license": "MIT",
+   "stars": 355,
+   "pushed": "2026-11-25",
+   "official": false,
+   "category": "3D and CAD"
+  },
+  {
+   "name": "Three.js DevTools MCP",
+   "repo": "DmitriyGolub/threejs-devtools-mcp",
+   "url": "https://github.com/DmitriyGolub/threejs-devtools-mcp",
+   "desc": "Inspect and edit a running Three.js scene: objects, materials and shaders",
+   "license": "MIT",
+   "stars": 135,
+   "pushed": "2026-10-14",
+   "official": false,
+   "category": "3D and CAD"
+  },
+  {
+   "name": "Unity MCP (Coplay)",
+   "repo": "CoplayDev/unity-mcp",
+   "url": "https://github.com/CoplayDev/unity-mcp",
+   "desc": "Bridge to the Unity Editor: manage scenes, assets, scripts and components from the agent",
+   "license": "MIT",
+   "stars": 16191,
+   "pushed": "2026-11-17",
+   "official": false,
+   "category": "3D and CAD"
+  },
+  {
+   "name": "Godot MCP",
+   "repo": "Coding-Solo/godot-mcp",
+   "url": "https://github.com/Coding-Solo/godot-mcp",
+   "desc": "Launch the Godot editor, run projects, read debug output and create or edit scenes",
+   "license": "MIT",
+   "stars": 6765,
+   "pushed": "2026-04-16",
+   "official": false,
+   "category": "3D and CAD"
+  },
+  {
+   "name": "draw.io MCP (official)",
+   "repo": "jgraph/drawio-mcp",
+   "url": "https://github.com/jgraph/drawio-mcp",
+   "desc": "Official draw.io server: agent creates diagrams and opens them in the draw.io editor",
+   "license": "Apache-2.0",
+   "stars": 5898,
+   "pushed": "2026-11-23",
+   "official": true,
+   "category": "Diagrams and whiteboards"
+  },
+  {
+   "name": "draw.io MCP Server (lgazo)",
+   "repo": "lgazo/drawio-mcp-server",
+   "url": "https://github.com/lgazo/drawio-mcp-server",
+   "desc": "Inspects and edits diagrams in a live draw.io session through a browser extension",
+   "license": "MIT",
+   "stars": 1502,
+   "pushed": "2026-11-24",
+   "official": false,
+   "category": "Diagrams and whiteboards"
+  },
+  {
+   "name": "mcp-mermaid",
+   "repo": "hustcc/mcp-mermaid",
+   "url": "https://github.com/hustcc/mcp-mermaid",
+   "desc": "Renders Mermaid code to PNG, SVG or share links so the agent can check its own diagram",
+   "license": "MIT",
+   "stars": 652,
+   "pushed": "2026-05-15",
+   "official": false,
+   "category": "Diagrams and whiteboards"
+  },
+  {
+   "name": "Mermaid MCP Server (peng-shawn)",
+   "repo": "peng-shawn/mermaid-mcp-server",
+   "url": "https://github.com/peng-shawn/mermaid-mcp-server",
+   "desc": "Converts Mermaid diagrams to PNG images using a headless browser",
+   "license": "MIT",
+   "stars": 234,
+   "pushed": "2026-10-25",
+   "official": false,
+   "category": "Diagrams and whiteboards"
+  },
+  {
+   "name": "PlantUML MCP (official)",
+   "repo": "plantuml/plantuml-mcp",
+   "url": "https://github.com/plantuml/plantuml-mcp",
+   "desc": "Official PlantUML server that renders UML and other PlantUML diagrams to images",
+   "license": "MIT",
+   "stars": 9,
+   "pushed": "2026-06-08",
+   "official": true,
+   "category": "Diagrams and whiteboards"
+  },
+  {
+   "name": "PlantUML MCP Server (Infobip)",
+   "repo": "infobip/plantuml-mcp-server",
+   "url": "https://github.com/infobip/plantuml-mcp-server",
+   "desc": "Generates and encodes PlantUML diagrams, returning image URLs or files",
+   "license": "MIT",
+   "stars": 55,
+   "pushed": "2026-11-13",
+   "official": false,
+   "category": "Diagrams and whiteboards"
+  },
+  {
+   "name": "AntV MCP Server Chart",
+   "repo": "antvis/mcp-server-chart",
+   "url": "https://github.com/antvis/mcp-server-chart",
+   "desc": "25+ chart types (bar, line, pie, maps, mind maps, flow) rendered as images from agent data",
+   "license": "MIT",
+   "stars": 4423,
+   "pushed": "2026-08-27",
+   "official": false,
+   "category": "Diagrams and whiteboards"
+  },
+  {
+   "name": "Excalidraw MCP (Scofieldfree)",
+   "repo": "Scofieldfree/excalidraw-mcp",
+   "url": "https://github.com/Scofieldfree/excalidraw-mcp",
+   "desc": "Create and edit Excalidraw sketches and diagrams from the agent",
+   "license": "MIT",
+   "stars": 102,
+   "pushed": "2026-02-09",
+   "official": false,
+   "category": "Diagrams and whiteboards"
+  },
+  {
+   "name": "Excalidraw Icons MCP",
+   "repo": "iagogfe/excalidraw-icons-mcp",
+   "url": "https://github.com/iagogfe/excalidraw-icons-mcp",
+   "desc": "Excalidraw server that searches and inserts real AWS, Azure and GCP vendor icons into diagrams",
+   "license": "MIT",
+   "stars": 32,
+   "pushed": "2026-11-16",
+   "official": false,
+   "category": "Diagrams and whiteboards"
+  },
+  {
+   "name": "Dashboard Icons",
+   "repo": "homarr-labs/dashboard-icons",
+   "url": "https://github.com/homarr-labs/dashboard-icons",
+   "desc": "3,400+ app and service icons with an MCP endpoint that matches a docker-compose file to icons",
+   "license": "Apache-2.0",
+   "stars": 9163,
+   "pushed": "2026-11-25",
+   "official": false,
+   "category": "Icons, fonts, colour and brand assets"
+  },
+  {
+   "name": "theSVG",
+   "repo": "glincker/thesvg",
+   "url": "https://github.com/glincker/thesvg",
+   "desc": "7,900+ brand logos and icons as SVG; the MCP server searches and returns them to the agent",
+   "license": "MIT",
+   "stars": 3045,
+   "pushed": "2026-11-25",
+   "official": false,
+   "category": "Icons, fonts, colour and brand assets"
+  },
+  {
+   "name": "Keyline Icons",
+   "repo": "keyline-icons/keyline-icons",
+   "url": "https://github.com/keyline-icons/keyline-icons",
+   "desc": "2,169 MIT icons in four styles; the @keyline-icons/mcp package searches by name and returns SVG",
+   "license": "MIT",
+   "stars": 250,
+   "pushed": "2026-11-25",
+   "official": false,
+   "category": "Icons, fonts, colour and brand assets"
+  },
+  {
+   "name": "Lucide Icons MCP",
+   "repo": "SeeYangZhi/lucide-icons-mcp",
+   "url": "https://github.com/SeeYangZhi/lucide-icons-mcp",
+   "desc": "Search Lucide icons and fetch their SVG or component code as resources and tools",
+   "license": "MIT",
+   "stars": 43,
+   "pushed": "2026-07-10",
+   "official": false,
+   "category": "Icons, fonts, colour and brand assets"
+  },
+  {
+   "name": "Iconify MCP Server",
+   "repo": "imjac0b/iconify-mcp-server",
+   "url": "https://github.com/imjac0b/iconify-mcp-server",
+   "desc": "Searches Iconify's 200k+ icon sets and returns SVG or usage snippets",
+   "license": "GPL-3.0",
+   "stars": 26,
+   "pushed": "2025-11-22",
+   "official": false,
+   "category": "Icons, fonts, colour and brand assets"
+  },
+  {
+   "name": "Pocket Design MCP",
+   "repo": "jasonmello/pocket-design-mcp",
+   "url": "https://github.com/jasonmello/pocket-design-mcp",
+   "desc": "Free toolbox: icons from 280 sets, fonts, images, tokens, easings and contrast checks",
+   "license": "Apache-2.0",
+   "stars": 24,
+   "pushed": "2026-11-21",
+   "official": false,
+   "category": "Icons, fonts, colour and brand assets"
+  },
+  {
+   "name": "Punchcutter",
+   "repo": "byrishi/punchcutter",
+   "url": "https://github.com/byrishi/punchcutter",
+   "desc": "Builds fonts from a description or a handwriting sheet photo; MCP tools create and export the font",
+   "license": "MIT",
+   "stars": 36,
+   "pushed": "2026-11-15",
+   "official": false,
+   "category": "Icons, fonts, colour and brand assets"
+  },
+  {
+   "name": "shadcn/ui MCP (official)",
+   "repo": "shadcn-ui/ui",
+   "url": "https://github.com/shadcn-ui/ui",
+   "desc": "Built-in server in the shadcn CLI: browse registries and add components to a project by name",
+   "license": "MIT",
+   "stars": 129079,
+   "pushed": "2026-11-25",
+   "official": true,
+   "category": "UI components and design systems"
+  },
+  {
+   "name": "21st.dev Magic MCP",
+   "repo": "21st-dev/magic-mcp",
+   "url": "https://github.com/21st-dev/magic-mcp",
+   "desc": "Searches a library of React and Tailwind components and inserts them into your project from the editor",
+   "license": "ISC",
+   "stars": 6672,
+   "pushed": "2026-09-09",
+   "official": false,
+   "category": "UI components and design systems"
+  },
+  {
+   "name": "Dembrandt",
+   "repo": "dembrandt/dembrandt",
+   "url": "https://github.com/dembrandt/dembrandt",
+   "desc": "Extracts a site's colours, type and spacing into design tokens; also runs as an MCP server",
+   "license": "MIT",
+   "stars": 4088,
+   "pushed": "2026-11-25",
+   "official": false,
+   "category": "UI components and design systems"
+  },
+  {
+   "name": "HeroUI MCP",
+   "repo": "heroui-inc/heroui-mcp",
+   "url": "https://github.com/heroui-inc/heroui-mcp",
+   "desc": "Serves HeroUI React v3 and Native component docs, props and examples to the agent",
+   "license": "MIT",
+   "stars": 65,
+   "pushed": "2026-11-24",
+   "official": false,
+   "category": "UI components and design systems"
+  },
+  {
+   "name": "UI UX Pro MCP",
+   "repo": "redf0x1/ui-ux-pro-mcp",
+   "url": "https://github.com/redf0x1/ui-ux-pro-mcp",
+   "desc": "Curated style, palette and font-pairing data that the agent queries when designing screens",
+   "license": "MIT",
+   "stars": 44,
+   "pushed": "2026-01-21",
+   "official": false,
+   "category": "UI components and design systems"
+  },
+  {
+   "name": "MarmoUI",
+   "repo": "mahmoudilyan/marmoui",
+   "url": "https://github.com/mahmoudilyan/marmoui",
+   "desc": "Open-source React design system with an MCP server so the agent assembles screens from its components",
+   "license": "MIT",
+   "stars": 19,
+   "pushed": "2026-07-25",
+   "official": false,
+   "category": "UI components and design systems"
+  },
+  {
+   "name": "Playwright MCP",
+   "repo": "microsoft/playwright-mcp",
+   "url": "https://github.com/microsoft/playwright-mcp",
+   "desc": "Drives a real browser: navigate, click, resize and take screenshots to check a UI",
+   "license": "Apache-2.0",
+   "stars": 40143,
+   "pushed": "2026-11-18",
+   "official": true,
+   "category": "Visual review and screenshots"
+  },
+  {
+   "name": "Chrome DevTools MCP",
+   "repo": "ChromeDevTools/chrome-devtools-mcp",
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "desc": "Inspect live pages in Chrome: screenshots, DOM, CSS, console and performance traces",
+   "license": "Apache-2.0",
+   "stars": 59340,
+   "pushed": "2026-11-25",
+   "official": true,
+   "category": "Visual review and screenshots"
+  },
+  {
+   "name": "ScreenshotMCP",
+   "repo": "upnorthmedia/ScreenshotMCP",
+   "url": "https://github.com/upnorthmedia/ScreenshotMCP",
+   "desc": "Captures full-page or viewport website screenshots at chosen sizes for the agent to review",
+   "license": "MIT",
+   "stars": 62,
+   "pushed": "2026-08-03",
+   "official": false,
+   "category": "Visual review and screenshots"
+  },
+  {
+   "name": "Presenton",
+   "repo": "presenton/presenton",
+   "url": "https://github.com/presenton/presenton",
+   "desc": "Self-hosted presentation generator with a built-in MCP endpoint; exports PPTX and PDF",
+   "license": "Apache-2.0",
+   "stars": 12050,
+   "pushed": "2026-11-23",
+   "official": false,
+   "category": "Slides, video and motion"
+  },
+  {
+   "name": "ppt-mcp",
+   "repo": "ykuwai/ppt-mcp",
+   "url": "https://github.com/ykuwai/ppt-mcp",
+   "desc": "Real-time control of PowerPoint: slides, shapes, text, layouts and formatting",
+   "license": "MIT",
+   "stars": 135,
+   "pushed": "2026-11-13",
+   "official": false,
+   "category": "Slides, video and motion"
+  },
+  {
+   "name": "mcp-server-powerpoint",
+   "repo": "sbroenne/mcp-server-powerpoint",
+   "url": "https://github.com/sbroenne/mcp-server-powerpoint",
+   "desc": "Automates desktop Microsoft PowerPoint from an agent: slides, shapes, tables, export",
+   "license": "MIT",
+   "stars": 50,
+   "pushed": "2026-11-25",
+   "official": false,
+   "category": "Slides, video and motion"
+  },
+  {
+   "name": "DaVinci Resolve MCP",
+   "repo": "samuelgursky/davinci-resolve-mcp",
+   "url": "https://github.com/samuelgursky/davinci-resolve-mcp",
+   "desc": "Controls DaVinci Resolve Studio: media pool, timelines, edits, colour and render queue",
+   "license": "MIT",
+   "stars": 4374,
+   "pushed": "2026-11-25",
+   "official": false,
+   "category": "Slides, video and motion"
+  },
+  {
+   "name": "After Effects MCP",
+   "repo": "Dakkshin/after-effects-mcp",
+   "url": "https://github.com/Dakkshin/after-effects-mcp",
+   "desc": "Remote control of Adobe After Effects: compositions, layers, keyframes and effects",
+   "license": "MIT",
+   "stars": 930,
+   "pushed": "2026-04-01",
+   "official": false,
+   "category": "Slides, video and motion"
+  },
+  {
+   "name": "OpenChatCut",
+   "repo": "0xsline/OpenChatCut",
+   "url": "https://github.com/0xsline/OpenChatCut",
+   "desc": "Local video editor with a multitrack timeline that external MCP agents can edit and export",
+   "license": "AGPL-3.0",
+   "stars": 3331,
+   "pushed": "2026-11-12",
+   "official": false,
+   "category": "Slides, video and motion"
+  }
+ ],
+ "hosted": [
+  {
+   "name": "Figma MCP (official, remote)",
+   "url": "https://mcp.figma.com/mcp",
+   "desc": "Figma's own hosted server: design context, variables and Code Connect for coding agents; no source published"
+  },
+  {
+   "name": "Canva MCP (official, remote)",
+   "url": "https://mcp.canva.com/mcp",
+   "desc": "Canva's hosted server for creating, searching and exporting Canva designs from an agent"
+  },
+  {
+   "name": "Mermaid Chart MCP",
+   "url": "https://mcp.mermaidchart.com/mcp",
+   "desc": "Hosted Mermaid Chart server for diagram validation and rendering (GitHub repo Mermaid-Chart/mermaid-mcp returned 404)"
+  },
+  {
+   "name": "Icons8 MCP",
+   "url": "https://mcp.icons8.com/mcp/",
+   "desc": "Hosted search and fetch of Icons8 icons and Ouch illustrations"
+  },
+  {
+   "name": "LottieFiles Creator",
+   "url": "https://creator.mcp.lottiefiles.com/mcp",
+   "desc": "Hosted motion engine that builds Lottie layers and keyframes; only a plugin repo is public"
+  }
+ ]
+}
