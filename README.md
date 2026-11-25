@@ -29,7 +29,7 @@ Claude Desktop, Cursor and others take the same command in a JSON config. Every 
 ## Legend
 
 - 🎖️ official server from the tool maker
-- 📇 TypeScript or JavaScript · 🐍 Python · #️⃣ C# · λ Clojure
+- 📇 TypeScript or JavaScript · 🐍 Python · #️⃣ C#
 - `Licence` the open licence of the code
 
 ## Contents
